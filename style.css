@@ -1,0 +1,49 @@
+body{
+	background-color: whitesmoke;
+}
+#man{
+	 
+}
+#name{
+	  width: 300px;
+	  color: white;
+	  background-color: black;
+	  margin-left: 8%;
+	  padding: 30px;
+	  border: 10px solid white;
+	  float:centre;
+}
+h1{
+	color: black;
+	text-align: center;
+	text-size-adjust :45px;
+	margin-bottom: 80px;
+}
+#bala{
+    margin-left: 8%;
+	color: white;
+	background-color:darkgray;
+    text-align: center;
+    padding: 30px;
+    width: 300px;
+    border: 10px solid black;
+
+}
+#sub{
+
+	background-color: darkgray;
+	color: white;
+	margin-left: 50%;
+	padding: 15px;
+	font-size: 18px;
+	font-style: bold;
+	border-radius: 25px;
+    border: 10px transparent;
+    margin-bottom: 100px;
+    box-shadow: 10px;
+
+}
+#sub:hover{
+	    transform: scale(1.4);
+	    transition: 1s;
+}
